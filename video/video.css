@@ -9,6 +9,7 @@
 	position: relative;
 	overflow: hidden;
 }
+
 .video-bg {
 	position: absolute;
 	top: 0;
@@ -22,6 +23,7 @@
 	   -moz-background-size: cover;
 	    	background-size: cover;
 }
+
 .video-bg video {
 	position: absolute;
 	min-width: 100%;
